@@ -14,7 +14,8 @@ This project is a Streamlit application that:
 
 ## Project Structure
 
-resume_analyzer/ ├── app.py # Main Streamlit application 
+resume_analyzer/ 
+├── app.py # Main Streamlit application 
 ├── database.py # Database operations (SQLite) 
 ├── pdf_extraction.py # PDF extraction logic 
 ├── embeddings.py # Semantic matching and embedding caching 
