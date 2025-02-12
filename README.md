@@ -15,16 +15,19 @@ This project is a Streamlit application that:
 ## Project Structure
 
 resume_analyzer/ 
+
 ├── app.py # Main Streamlit application 
+
 ├── database.py # Database operations (SQLite) 
+
 ├── pdf_extraction.py # PDF extraction logic 
+
 ├── embeddings.py # Semantic matching and embedding caching 
+
 ├── requirements.txt # Required packages 
+
 └── README.md # Project documentation
 
-markdown
-Copy
-Edit
 
 ## Setup and Run
 
